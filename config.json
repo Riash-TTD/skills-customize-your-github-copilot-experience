@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-handling-and-errors",
+      "title": "File Handling and Error Management",
+      "description": "Learn to read and write files, handle errors gracefully, and write defensive Python code",
+      "path": "assignments/file-handling-and-errors",
+      "dueDate": "2026-06-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
